@@ -116,7 +116,7 @@
 						<div class="col-lg-3">
 							<div class="brand_logo">
 								<a href="index.html">
-									<img src="assets/images/logo/logo_02_1x.png" srcset="assets/images/logo/logo_02_2x.png 2x" alt="logo_not_found">
+									<img src="assets/images/logo/LogoCenterPrinting.png" srcset="assets/images/logo/LogoCenterPrinting.png 2x" alt="logo_not_found">
 								</a>
 
 								<ul class="mobilemenu_btns_group ul_li_right clearfix">
