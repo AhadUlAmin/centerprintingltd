@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 
-		<title>Center Printing BD</title>
+		<title>CenterPrinting - Design,Print & Package Solution</title>
 		<link rel="shortcut icon" href="assets/images/logo/favourite_icon_01.png">
 
 		<!-- fraimwork - css include -->
@@ -80,8 +80,8 @@
 					<div class="row align-items-center">
 						<div class="col-lg-6">
 							<ul class="header_contact_info ul_li clearfix">
-								<li><i class="far fa-map-marker-alt"></i> 7th floor , Paltan Tower , Dhaka , BD</li>
-								<li><i class="far fa-envelope-open"></i> info@nabannamedia.com</li>
+								<li><i class="far fa-map-marker-alt"></i> 10/3 , Dhaka , BD</li>
+								<li><i class="far fa-envelope-open"></i> info@centerprintingbd.com</li>
 							</ul>
 						</div>
 
@@ -97,9 +97,7 @@
 										<select>
 											<option data-display="Select">Select Your Language</option>
 											<option value="English" selected>English</option>
-											<option value="Spanish">Spanish</option>
-											<option value="Portuguese">Portuguese</option>
-											<option value="Franch">Franch</option>
+											<option value="Bangla">Bangla</option>
 										</select>
 									</div>
 								</li>
@@ -115,7 +113,7 @@
 
 						<div class="col-lg-3">
 							<div class="brand_logo">
-								<a href="index.html">
+								<a href="index.php">
 									<img src="assets/images/logo/LogoCenterPrinting.png" srcset="assets/images/logo/LogoCenterPrinting.png 2x" alt="logo_not_found">
 								</a>
 
@@ -141,64 +139,14 @@
 						<div class="col-lg-6">
 							<nav class="main_menu clearfix">
 								<ul class="ul_li_center clearfix">
-									<li class="active has_child">
+									<li class="active">
 										<a href="#!">Home</a>
-										<ul class="submenu">
-											<li class="has_child">
-												<a href="index_1.html">Home Page V.1</a>
-												<ul class="submenu">
-													<li class="has_child">
-														<a href="#!">example V.1</a>
-														<ul class="submenu">
-															<li><a href="#!">example V.1</a></li>
-															<li><a href="#!">example V.2</a></li>
-															<li><a href="#!">example V.3</a></li>
-														</ul>
-													</li>
-													<li><a href="#!">example V.2</a></li>
-													<li><a href="#!">example V.3</a></li>
-												</ul>
-											</li>
-											<li class="has_child">
-												<a href="index_2.html">Home Page V.2</a>
-												<ul class="submenu">
-													<li class="has_child">
-														<a href="#!">example V.1</a>
-														<ul class="submenu">
-															<li><a href="#!">example V.1</a></li>
-															<li><a href="#!">example V.2</a></li>
-															<li><a href="#!">example V.3</a></li>
-														</ul>
-													</li>
-													<li><a href="#!">example V.2</a></li>
-													<li><a href="#!">example V.3</a></li>
-												</ul>
-											</li>
-											<li class="has_child">
-												<a href="index_3.html">Home Page V.3</a>
-												<ul class="submenu">
-													<li class="has_child">
-														<a href="#!">example V.1</a>
-														<ul class="submenu">
-															<li><a href="#!">example V.1</a></li>
-															<li><a href="#!">example V.2</a></li>
-															<li><a href="#!">example V.3</a></li>
-														</ul>
-													</li>
-													<li><a href="#!">example V.2</a></li>
-													<li><a href="#!">example V.3</a></li>
-												</ul>
-											</li>
-										</ul>
+										
 									</li>
-									<li><a href="about.html">About</a></li>
-									<li class="has_child">
+									<li><a href="about.php">Work</a></li>
+									<li><a href="about.php">Producton</a></li>
+									<li>
 										<a href="#!">Services</a>
-										<ul class="submenu">
-											<li><a href="service_1.html">Service V.1</a></li>
-											<li><a href="service_2.html">Service V.2</a></li>
-											<li><a href="service_details.html">Service Details</a></li>
-										</ul>
 									</li>
 									<li class="has_child">
 										<a href="#!">Pages</a>
@@ -216,21 +164,7 @@
 											<li><a href="faq.html">F.A.Q.</a></li>
 										</ul>
 									</li>
-									<li class="has_child">
-										<a href="#!">Shop</a>
-										<ul class="submenu">
-											<li><a href="shop.html">Our Shop</a></li>
-											<li><a href="shop_details.html">Shop Details</a></li>
-										</ul>
-									</li>
-									<li class="has_child">
-										<a href="#!">News</a>
-										<ul class="submenu">
-											<li><a href="blog_grid.html">Blog Grid</a></li>
-											<li><a href="blog_standard.html">Blog Standard</a></li>
-											<li><a href="blog_details.html">Blog Details</a></li>
-										</ul>
-									</li>
+	
 									<li><a href="contact.html">Conatct</a></li>
 								</ul>
 							</nav>

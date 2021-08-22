@@ -116,15 +116,15 @@
 							<div class="widget footer_contact_form">
 								<h3 class="footer_widget_title">Contact Us</h3>
 								<p class="mb_30">
-									Sed ut persiatis unde omnis iste natusec error sit voluptatem accusantium
-								</p>
+								10/3 , Purana Palton Line , Dhaka -1000 , Bangladesh.
+							</p>
 								<form action="#">
 									<div class="form_item">
 										<input type="email" name="email" placeholder="Enter Your Email">
 										<button type="submit" class="submit_btn"><i class="far fa-arrow-right"></i></button>
 									</div>
 								</form>
-								<span class="footer_hotline"><i class="far fa-phone"></i> +012 (345) 678 99</span>
+								<span class="footer_hotline"><i class="far fa-phone"></i> +880 (171) 5779 379</span>
 							</div>
 						</div>
 					</div>
